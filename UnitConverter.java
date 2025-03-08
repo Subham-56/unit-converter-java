@@ -11,7 +11,6 @@ public class UnitConverter {
             System.out.println("3. Kilograms to Pounds");
             System.out.println("4. Exit");
             System.out.print("Choose an option: ");
-            
             int choice = scanner.nextInt();
             if (choice == 4) {
                 System.out.println("Exiting...");
